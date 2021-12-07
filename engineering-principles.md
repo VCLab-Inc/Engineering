@@ -34,3 +34,4 @@ If you find messy code, make it better. If you don’t understand at first how s
 - If you can't take ownership, then we most likely have a more significant structural (process) problem at hand. Please address it to the team
 - Don't ask if you can refactor
 
+[<< Back](who-you-work-with.md)  |  [Home](README.md)  |  [Next >>](system-architecture.md)

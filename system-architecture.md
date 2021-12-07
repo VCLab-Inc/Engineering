@@ -6,3 +6,5 @@ We are a startup and the architecture is very simple. (And it would be great to 
 - **Frontend**: Rails + React + TailwindCSS
 - **Hosting**: AWS + Heroku
 - **Tools**: Github, VS Code, Clickup, Google Suite
+
+[<< Back](engineering-principles.md)  |  [Home](README.md)  |  [Next >>](who-we-are-looking-for.md)
