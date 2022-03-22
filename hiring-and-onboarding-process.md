@@ -15,10 +15,10 @@ Our interview process is fast, but it's not easy!
 4. Another interview with a co-founder of the company
 5. Hiring decision
 
-In almost every case (with specific exceptions), we require the coding challenge. If you’re not comfortable doing a small coding project for us, then you’re probably not a good fit. 
+In almost every case (with specific exceptions), we require the coding challenge. If you’re not comfortable doing a small coding project for us, then you’re probably not a good fit. Everybody on the team has done a coding challenge and we want to hire people who are as talented and excited about the mission as we are!
 
 ### Timing
 
-Given that we’re a startup, we can move much faster than the tech behemoths. The entire hiring process should only take ~2-weeks from start-to-finish.
+Given that we’re a startup, we can move much faster than the tech behemoths. The entire hiring process should only take ~2-weeks from start-to-finish, mostly dependent on your available to complete the code challenge.
 
 [<< Back](who-we-are-looking-for.md)  |  [Home](README.md)  |  [Next >>](questions.md)
