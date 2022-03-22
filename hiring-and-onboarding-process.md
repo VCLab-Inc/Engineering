@@ -19,6 +19,6 @@ In almost every case (with specific exceptions), we require the coding challenge
 
 ### Timing
 
-Given that we’re a startup, we can move much faster than the tech behemoths. The entire hiring process should only take ~2-weeks from start-to-finish, mostly dependent on your available to complete the code challenge.
+Given that we’re a startup, we can move much faster than the tech behemoths. The entire hiring process should only take ~2-weeks from start-to-finish, mostly dependent on your availability to complete the code challenge.
 
 [<< Back](who-we-are-looking-for.md)  |  [Home](README.md)  |  [Next >>](questions.md)
