@@ -30,7 +30,7 @@ If you work on something, you drive decisions:
 If you find messy code, make it better. If you don’t understand at first how something works, leave some comments or refactor it. Clean up code as you go, this is a basic courtesy for your fellow devs.
 
 - Any mistake you find and leave - is now also your mistake
-- Any "wtf-moment" you run into is a chance for you to help somebody else avoid that feeling (add notes, introduce best practices, etc)
+- Any "wtf-moment" you run into is a chance for you to help somebody else avoid that feeling (add notes, introduce best practices)
 - If you can't take ownership, then we most likely have a more significant structural (process) problem at hand. Please address it to the team
 - Don't ask if you can refactor
 
