@@ -8,9 +8,9 @@ That being clear... We are all family people with significant others and kids, s
 
 ## How do we treat each other?
 
-![Respect](https://giphy.com/embed/9JyTQrfpJs8zZ9xLI3)
+![Respect](https://media1.giphy.com/media/9JyTQrfpJs8zZ9xLI3/giphy.gif)
 
-![Friends](https://giphy.com/embed/kFIfiwvzJjbUsNbIg5)
+![Friends](https://media1.giphy.com/media/kFIfiwvzJjbUsNbIg5/giphy.gif)
   
 ## Bennies
   
