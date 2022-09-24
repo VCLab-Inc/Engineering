@@ -18,10 +18,9 @@ If you work on something, you drive decisions:
 
 ### Small checkpoints
 
-- We use trunk driven development
-- Get feedback from the team early and often
-- Try to get the feature to production as quickly as possible.
-- Split features into multiple smaller releasable features
+- Get feedback from the team and the customers early and often
+- Try to get the feature to production as quickly as possible, split big projects into multiple smaller releases
+- One PR review required before merging into `develop` branch
 
 ### The scout rule
 
