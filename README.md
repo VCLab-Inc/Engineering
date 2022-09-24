@@ -8,4 +8,5 @@
 * [System Architecture](system-architecture.md)
 * [Who we are looking for](who-we-are-looking-for.md)
 * [Hiring and Onboarding Process](hiring-and-onboarding-process.md)
+* [Team culture and work/life balance](culture-and-worklife-balance.md)
 * [Questions](questions.md)
