@@ -14,6 +14,7 @@ That being clear... We are all family people with significant others and kids, s
   
 ## Bennies
   
+- Stock options
 - Insurance for those in the USA
 - Vacation
 - Paternity leave
