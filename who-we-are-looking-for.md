@@ -7,4 +7,4 @@ You don’t need a fancy degree, a certain number of years of coding experience,
 
 If you're motivated to be more, and better, than you are today... If you're not afraid to work with proven, highly skilled people who will ask for your best... to advance a worthy cause... be a patient and skilled mentor/friend for other developers... in a fast-paced environment... with a lot of growth opportunity... then you're a good fit for VC Lab. (And we want to work with you too!)
 
-[<< Back](system-architecture.md)  |  [Home](README.md)  |  [Next >>](hiring-and-onboarding-process.md)
+[<< Back](system-architecture.md)  |  [Home](README.md)  |  [Next >>](culture-and-worklife-balance.md)
