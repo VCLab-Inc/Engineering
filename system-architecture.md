@@ -5,6 +5,6 @@ We are a startup and the architecture is very simple. (And it would be great to 
 - **Backend**: Rails + Postgres + Redis
 - **Frontend**: Rails + Hotwire + React + TailwindCSS
 - **Hosting**: AWS + Heroku
-- **Tools**: Github, VS Code, Clickup, Google Suite
+- **Tools**: Github, VS Code, Slack, Google Suite
 
 [<< Back](engineering-principles.md)  |  [Home](README.md)  |  [Next >>](who-we-are-looking-for.md)
