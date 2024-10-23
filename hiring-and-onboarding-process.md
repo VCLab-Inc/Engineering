@@ -1,4 +1,4 @@
-# VC Lab Engineering
+# Decile Group Engineering
 ## Hiring and Onboarding Process
 
 ### Salary + equity
