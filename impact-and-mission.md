@@ -1,7 +1,7 @@
-# VC Lab Engineering
+# Decile Group Engineering
 ## Impact & Mission
 
-VC Lab believes that **the most impactful way to improve the future is to help diverse, worldwide entrepreneurs build a thriving business**. In order to build a business, entrepreneurs need access to capital. To do our part, we are helping to launch 1,000 enduring Venture Capital firms focused on positive impact in the next 4 years.
+Decile Group believes that **the most impactful way to improve the future is to help diverse, worldwide entrepreneurs build a thriving business**. In order to build a business, entrepreneurs need access to capital. To do our part, we are helping to launch 1,000 enduring Venture Capital firms focused on positive impact in the next 4 years.
 
 **Why it’s important to innovate Venture Capital:**
 
