@@ -1,11 +1,11 @@
-# VC Lab Engineering
+# Decile Group Engineering
 ## Engineering Principles
 
 The ideal developer owns their project from start-to-finish. They can understand the requirements, work directly with stakeholders, ask questions when needed, but most importantly: 
 
 ### Ownership
 
-Devs at VC Lab are not micro-managed because they OWN their projects and prove to everybody else on the team that they can think critically, build things that work, communicate clearly, with empathy for others, and ask lots of questions. 
+Devs at Decile are not micro-managed because they OWN their projects and prove to everybody else on the team that they can think critically, build things that work, communicate clearly, with empathy for others, and ask lots of questions. 
 
 You own whatever you are working on. We treat people as capable, independent knowledge workers.
 
