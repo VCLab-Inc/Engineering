@@ -9,7 +9,7 @@ In today’s world, if you’re a smart person in Silicon Valley with ambition, 
 
 There are amazing entrepreneurs and huge opportunities all around the world. There is investor capital ready and waiting to be deployed. The big problem is that global legal structures are not simple, knowledge networks are all located in Silicon Valley, and there are no tools purpose-built for venture fund managers.
 
-We have thousands of amazing, inspiring VCs apply for our Genesis Venture Training program every cohort - https://www.govclab.com - and we help them with knowledge, software, and networking to make their dream of starting a VC Firm and investing in startups a reality.
+We have thousands of amazing, inspiring VCs apply for our VC Lab program every cohort - https://www.govclab.com - and we help them with knowledge, software, and networking to make their dream of starting a VC Firm and investing in startups a reality.
 
 We are innovating Venture Capital from its roots, overhauling legal documents, creating accounting systems, and building networks. We are launching enduring, impactful VCs of the future, by the hundreds, and we need your help to do it.
 
